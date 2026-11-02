@@ -28,5 +28,4 @@ Generative Adversarial Network (DCGAN).
 - Generator and discriminator losses showed fluctuations.
 
 ## Future Work
-- Improve training stability.
 - Explore diffusion-based generative models.
