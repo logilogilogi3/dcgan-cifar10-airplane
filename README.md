@@ -17,10 +17,10 @@ Generative Adversarial Network (DCGAN).
 ## Results
 
 ### Generated Images
-![Results](results/real_vs_fake.png)
+![Results](result/real_vs_fake.png)
 
 ### Training Loss
-![Loss](results/loss.png)
+![Loss](result/loss.png)
 
 ## Observations
 - The generator learned recognizable aircraft structures.
